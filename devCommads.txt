@@ -1,0 +1,6 @@
+sudo npm install -g @vue/cli
+vue create ctrface
+cd ctrface
+npm run serve
+
+vue add vuetify
